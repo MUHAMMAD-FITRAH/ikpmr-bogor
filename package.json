@@ -1,6 +1,7 @@
 {
   "name": "ikpmr-bogor",
   "version": "1.0.0",
+  "homepage": "https://ikpmr-bogor.vercel.app",
   "private": true,
   "description": "Situs dan ruang anggota IKPMR Bogor: landing page, area member, dan dasbor admin",
   "scripts": {
